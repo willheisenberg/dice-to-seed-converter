@@ -1,0 +1,1 @@
+# dice-to-seed-converter
