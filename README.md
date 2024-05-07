@@ -18,7 +18,7 @@ mnemonic words to the user.
 
 To use this program, you will need:
 
-1. **Dices:** It's recommended to get a few 16-sided dice to generate the necessary random numbers.
+1. **Dice:** It's recommended to get a few 16-sided dice to generate the necessary random numbers.
 2. **Live Operating System:** For security reasons, it's highly recommended to run this program on a live
    Linux distribution, such as Debian Live. This ensures the system is not compromised by malware or other
    vulnerabilities.
