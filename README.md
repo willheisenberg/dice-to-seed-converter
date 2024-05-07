@@ -31,7 +31,7 @@ To use this program, you will need:
 ## Usage Instructions
 
 1. **Prepare:** Run the program on a secure, offline system. A live Debian distribution is a good choice.
-2. **Roll Dice:** Roll a 16-sided dice 64 times. number generator.
+2. **Roll Dice:** Roll a 16-sided dice 64 times.
 3. **Input:** Enter each dice roll into the program.
 4. **Receive Seed:** The program will output a 24-word mnemonic representing your Bitcoin seed.
 5. **Shutdown:** After using the program, shut down the computer using the power button and erase the live
